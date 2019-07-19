@@ -256,6 +256,7 @@ include:
 # ========================================================================================
 
 plugins:
+  - jekyll-paginate
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
